@@ -24,7 +24,19 @@ O objetivo deste projeto foi colocar em prática conhecimentos básicos de desen
 - Praticar a criação de um site do zero  
 - Organizar o código de forma limpa e semântica  
 - Melhorar o uso de classes e seletores CSS  
-- Criar um layout simples e responsivo  
+- Criar um layout simples e responsivo
+
+- ## 📷 Imagem do Projeto
+
+### Página Inicial
+![Página Inicial](./images/home.png)
+
+### Serviços
+![Serviços](./images/servicos.png)
+
+### Contato
+![Contato](./images/contato.png)
+
 
 ## 🚀 Como visualizar o projeto
 
