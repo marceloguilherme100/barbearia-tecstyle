@@ -10,10 +10,11 @@ Projeto desenvolvido com Angular para uma barbearia fictícia.
 
 ## 💻 Imagens do Projeto
 
-<img src="src/assets/img/1.jpg" width="200">
-<img src="src/assets/img/2.jpg" width="200">
-<img src="src/assets/img/3.jpg" width="200">
-
+<div style="display: flex; gap: 10px;">
+  <img src="./1.jpg" alt="Imagem 1" width="250">
+  <img src="./2.jpg" alt="Imagem 2" width="250">
+  <img src="./3.jpg" alt="Imagem 3" width="250">
+</div>
 ## 📂 Como executar
 
 Clone o repositório:
