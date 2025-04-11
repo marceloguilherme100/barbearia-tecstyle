@@ -1,45 +1,21 @@
-# Barbearia TecStyle ✂️💈  
+# Barbearia TecStyle 💈
 
-Projeto desenvolvido para fins de estudo e prática de HTML e CSS.  
-O site simula a página oficial de uma barbearia moderna e tecnológica.
+Projeto desenvolvido com Angular para uma barbearia fictícia.
 
-## 💻 Tecnologias utilizadas
+## 🚀 Tecnologias utilizadas
+- Angular 17
+- HTML5
+- CSS3
+- TypeScript
 
-- HTML5  
-- CSS3  
+## 💻 Imagens do Projeto
 
-## 📑 Descrição do Projeto
+<img src="src/assets/img/1.jpg" width="200">
+<img src="src/assets/img/2.jpg" width="200">
+<img src="src/assets/img/3.jpg" width="200">
 
-O projeto "Barbearia TecStyle" é um site estático que apresenta:
+## 📂 Como executar
 
-- Página inicial com informações sobre a barbearia  
-- Seção de serviços oferecidos  
-- Seção sobre a empresa  
-- Informações de contato  
-
-O objetivo deste projeto foi colocar em prática conhecimentos básicos de desenvolvimento web utilizando HTML e CSS puro, com foco em estruturação de página e estilização.
-
-## 🎯 Objetivos do Projeto
-
-- Praticar a criação de um site do zero  
-- Organizar o código de forma limpa e semântica  
-- Melhorar o uso de classes e seletores CSS  
-- Criar um layout simples e responsivo
-
-## 📷 Imagens do Projeto
-
-<div style="display: flex; gap: 10px;">
-  <img src="./1.jpg" alt="Página Inicial" width="250">
-  <img src="./2.jpg" alt="Serviços" width="250">
-  <img src="./3.jpg" alt="Contato" width="250">
-</div>
-
-
-
-
-## 🚀 Como visualizar o projeto
-
-Você pode acessar o site localmente clonando o repositório:
-
+Clone o repositório:
 ```bash
-git clone https://github.com/marceloguilherme100/barbearia-tecstyle.git
+git clone https://github.com/seu-usuario/barbearia-tecstyle.git
