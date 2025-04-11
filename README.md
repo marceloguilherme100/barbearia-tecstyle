@@ -28,14 +28,12 @@ O objetivo deste projeto foi colocar em prática conhecimentos básicos de desen
 
 ## 📷 Imagens do Projeto
 
-### Página Inicial
-![Página Inicial](./1.jpg)
+<div style="display: flex; gap: 10px;">
+  <img src="./1.jpg" alt="Página Inicial" width="250">
+  <img src="./2.jpg" alt="Serviços" width="250">
+  <img src="./3.jpg" alt="Contato" width="250">
+</div>
 
-### Serviços
-![Serviços](./2.jpg)
-
-### Contato
-![Contato](./3.jpg)
 
 
 
