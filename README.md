@@ -1,59 +1,34 @@
-# BarbeariaTecstyle
+# Barbearia TecStyle ✂️💈  
 
-This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 19.2.6.
+Projeto desenvolvido para fins de estudo e prática de HTML e CSS.  
+O site simula a página oficial de uma barbearia moderna e tecnológica.
 
-## Development server
+## 💻 Tecnologias utilizadas
 
-To start a local development server, run:
+- HTML5  
+- CSS3  
 
-```bash
-ng serve
-```
+## 📑 Descrição do Projeto
 
-Once the server is running, open your browser and navigate to `http://localhost:4200/`. The application will automatically reload whenever you modify any of the source files.
+O projeto "Barbearia TecStyle" é um site estático que apresenta:
 
-## Code scaffolding
+- Página inicial com informações sobre a barbearia  
+- Seção de serviços oferecidos  
+- Seção sobre a empresa  
+- Informações de contato  
 
-Angular CLI includes powerful code scaffolding tools. To generate a new component, run:
+O objetivo deste projeto foi colocar em prática conhecimentos básicos de desenvolvimento web utilizando HTML e CSS puro, com foco em estruturação de página e estilização.
 
-```bash
-ng generate component component-name
-```
+## 🎯 Objetivos do Projeto
 
-For a complete list of available schematics (such as `components`, `directives`, or `pipes`), run:
+- Praticar a criação de um site do zero  
+- Organizar o código de forma limpa e semântica  
+- Melhorar o uso de classes e seletores CSS  
+- Criar um layout simples e responsivo  
 
-```bash
-ng generate --help
-```
+## 🚀 Como visualizar o projeto
 
-## Building
-
-To build the project run:
-
-```bash
-ng build
-```
-
-This will compile your project and store the build artifacts in the `dist/` directory. By default, the production build optimizes your application for performance and speed.
-
-## Running unit tests
-
-To execute unit tests with the [Karma](https://karma-runner.github.io) test runner, use the following command:
+Você pode acessar o site localmente clonando o repositório:
 
 ```bash
-ng test
-```
-
-## Running end-to-end tests
-
-For end-to-end (e2e) testing, run:
-
-```bash
-ng e2e
-```
-
-Angular CLI does not come with an end-to-end testing framework by default. You can choose one that suits your needs.
-
-## Additional Resources
-
-For more information on using the Angular CLI, including detailed command references, visit the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
+git clone https://github.com/marceloguilherme100/barbearia-tecstyle.git
