@@ -11,7 +11,7 @@ Projeto desenvolvido com Angular para uma barbearia fictícia, focado em apresen
 ## 💻 Imagens do Projeto
 
 <div style="display: flex; gap: 10px;">
-  <img src="./1.jpg" alt="Página Inicial" width="200" height="auto">
+  <img src="./1.jpg" alt="Página Inicial" width="150" height="auto">
   <img src="./2.jpg" alt="Serviços" width="300" height="auto">
   <img src="./3.jpg" alt="Contato" width="300" height="auto">
 </div>
