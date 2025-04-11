@@ -26,16 +26,17 @@ O objetivo deste projeto foi colocar em prática conhecimentos básicos de desen
 - Melhorar o uso de classes e seletores CSS  
 - Criar um layout simples e responsivo
 
-- ## 📷 Imagem do Projeto
+## 📷 Imagens do Projeto
 
 ### Página Inicial
-![Página Inicial](./images/home.png)
+![Página Inicial](./1.jpg)
 
 ### Serviços
-![Serviços](./images/servicos.png)
+![Serviços](./2.jpg)
 
 ### Contato
-![Contato](./images/contato.png)
+![Contato](./3.jpg)
+
 
 
 ## 🚀 Como visualizar o projeto
