@@ -1,59 +1,59 @@
-# BarbeariaTecstyle
+# Barbearia TecStyle 💈
 
-This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 19.2.6.
+Projeto desenvolvido com Angular para uma barbearia fictícia, focado em apresentar uma interface simples e funcional.
 
-## Development server
+## 🚀 Tecnologias utilizadas
+- **Angular 17** - Framework para o desenvolvimento do front-end.
+- **HTML5** - Estruturação das páginas.
+- **CSS3** - Estilização e responsividade.
+- **TypeScript** - Linguagem para garantir uma codificação mais robusta e segura.
 
-To start a local development server, run:
+## 💻 Imagens do Projeto
 
-```bash
-ng serve
-```
+<div style="display: flex; gap: 10px;">
+  <img src="./1.jpg" alt="Página Inicial" width="170" height="auto">
+  <img src="./2.jpg" alt="Serviços" width="300" height="auto">
+  <img src="./3.jpg" alt="Contato" width="300" height="auto">
+</div>
 
-Once the server is running, open your browser and navigate to `http://localhost:4200/`. The application will automatically reload whenever you modify any of the source files.
+## 📂 Como executar
 
-## Code scaffolding
+1. Clone o repositório:
+    ```bash
+    git clone https://github.com/seu-usuario/barbearia-tecstyle.git
+    ```
 
-Angular CLI includes powerful code scaffolding tools. To generate a new component, run:
+2. Instale as dependências:
+    ```bash
+    cd barbearia-tecstyle
+    npm install
+    ```
 
-```bash
-ng generate component component-name
-```
+3. Execute o projeto em modo de desenvolvimento:
+    ```bash
+    ng serve
+    ```
 
-For a complete list of available schematics (such as `components`, `directives`, or `pipes`), run:
+4. Acesse no navegador:
+    ```
+    http://localhost:4200
+    ```
 
-```bash
-ng generate --help
-```
+## ⚙️ Como rodar no ambiente de produção
 
-## Building
+1. Compile o projeto para produção:
+    ```bash
+    ng build --prod
+    ```
 
-To build the project run:
+2. Acesse a pasta `dist` e hospede os arquivos gerados.
 
-```bash
-ng build
-```
+## 🤝 Contribuição
 
-This will compile your project and store the build artifacts in the `dist/` directory. By default, the production build optimizes your application for performance and speed.
+Sinta-se à vontade para fazer fork deste repositório e enviar pull requests com melhorias!
 
-## Running unit tests
+---
 
-To execute unit tests with the [Karma](https://karma-runner.github.io) test runner, use the following command:
+## 📄 Licença
 
-```bash
-ng test
-```
-
-## Running end-to-end tests
-
-For end-to-end (e2e) testing, run:
-
-```bash
-ng e2e
-```
-
-Angular CLI does not come with an end-to-end testing framework by default. You can choose one that suits your needs.
-
-## Additional Resources
-
-For more information on using the Angular CLI, including detailed command references, visit the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
+Este projeto está licenciado sob a MIT License - veja o arquivo [LICENSE](LICENSE) para mais detalhes.
